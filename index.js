@@ -1,0 +1,2 @@
+const accessKey = "AKIASHQWHDZ6DM7YXWNU";
+const secretAccessKey = "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";
